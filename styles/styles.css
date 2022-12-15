@@ -6,7 +6,7 @@ body {
 .link {
     text-decoration: none;
 }
-/* p,
+p,
 h1,
 h2,
 h3,
@@ -14,7 +14,7 @@ h4,
 h5,
 h6 {
     margin: 0;
-} */
+}
 
 /* main styles */
 
@@ -61,6 +61,7 @@ h6 {
     font-size: 14px;
     line-height: 24px;
     color: #595959;
+    margin-bottom: 10px;
     /* width: 400px; */
 }
 
